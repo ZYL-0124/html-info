@@ -36,12 +36,12 @@ const SITE = {
 
   // 「摄影」页：占位卡片，之后把照片放 assets/photos/ 换掉即可
   photos: [
-    { title: "随手拍 · 一", note: "占位，等照片" },
-    { title: "随手拍 · 二", note: "占位，等照片" },
-    { title: "随手拍 · 三", note: "占位，等照片" },
-    { title: "随手拍 · 四", note: "占位，等照片" },
-    { title: "随手拍 · 五", note: "占位，等照片" },
-    { title: "随手拍 · 六", note: "占位，等照片" },
+    { title: "随手拍 · 一", note: "占位，等照片" ,img:"assets/"},
+    { title: "随手拍 · 二", note: "占位，等照片" ,img:""},
+    { title: "随手拍 · 三", note: "占位，等照片" ,img:""},
+    { title: "随手拍 · 四", note: "占位，等照片" ,img:""},
+    { title: "随手拍 · 五", note: "占位，等照片" ,img:""},
+    { title: "随手拍 · 六", note: "占位，等照片" ,img:""},
   ],
 
   // 「碎碎念」页：想到什么写什么，短句即可
